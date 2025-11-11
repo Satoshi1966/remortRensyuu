@@ -1,4 +1,4 @@
-# 🌐 Webアプリケーション開発ポートフォリオ（Java / JSP / Servlet）
+# Webアプリケーション名（Java/Servlet/JSP）
 
 ## 📘 概要
 Java / JSP / Servlet / SQL を用いて開発した Web アプリケーションです。  
@@ -56,9 +56,7 @@ project/
 ---
 
 ## 🗄 データベース構成
-### 📘 ER図
-> 画像を `docs/er_diagram.png` に差し替えてください。  
-> 例：  
+### 📘 ER図 
 > ![ER図](./docs/er_diagram.png)
 
 ### テーブル定義例：users
@@ -81,15 +79,8 @@ project/
 
 ---
 
-## 📊 UML / 設計資料
-> 以下のファイルを差し替えてください（今はプレースホルダー画像です）：
->
-> - `docs/usecase.png`：ユースケース図  
-> - `docs/uml_sequence.png`：シーケンス図  
-> - `docs/class_diagram.png`：クラス図  
->
-> 例：  
-> ![シーケンス図](./docs/uml_sequence.png)
+## 📊 UML / 設計資料 
+> ![シーケンス図](./docs/uml.png)
 
 ---
 
@@ -112,10 +103,6 @@ project/
 ---
 
 ## 📸 画面キャプチャ（例）
-> - `docs/login_screen.png`  
-> - `docs/list_screen.png`  
->
-> 例：  
 > ![ログイン画面](./docs/login_screen.png)
 
 ---
@@ -127,7 +114,7 @@ project/
 ---
 
 ## 👤 作成者
-- **氏名（またはGitHubアカウント）**：Your Name  
+- **氏名（またはGitHubアカウント）**：SB 太郎
 - **開発期間**：2025年○月〜○月  
 - **連絡先**：your-email@example.com  
 - **GitHub**：https://github.com/yourname/java-webapp-portfolio
@@ -138,5 +125,3 @@ project/
 2025-11-11
 
 ---
-
-> ✏️ **編集方法**：VS Code / Typora などの Markdown 対応エディタで開くと、見出しや画像をプレビューできます。
